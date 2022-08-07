@@ -1,0 +1,44 @@
+.container{
+    background-color: yellow;
+    height: 100%;
+    width: 100%;
+}
+.primer{
+    height: 50%;
+    width: 100%;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+   
+  
+}
+.sub{
+display: flex;
+justify-content: center;
+}
+.que{
+    display: flex;
+    justify-content: center;
+
+}
+.tarjeta{
+    height: 60%;
+    width: 100%;
+    display: flex;
+}
+.tres{
+    height: 100%;
+    width: 33%;
+    justify-content: center;
+}   
+.bodys{
+    height: 200px;
+}
+.imagen{
+    height: 280px;
+    width: 450px;
+}
+.carrusel{
+    height: 20px;
+    width: 100%;
+}

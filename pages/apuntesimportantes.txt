@@ -1,0 +1,9 @@
+para poder crear una nueva pagina las carpetas deben de estar en la carpeta pages 
+la forma para crear una nueva pagina tienes que crear una carpeta dentro de la carpeta de pages
+esta nueva carpeta debera llevar un nombre de lo que este relacionado esta pagina 
+Y dentro de esta nueva carpeta debera contener un documento de JS que siempre debera de llevar el nombre de "index"
+
+esta es una function
+
+export default function Home() {
+  return (
